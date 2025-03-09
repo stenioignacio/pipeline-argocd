@@ -5,5 +5,5 @@ application:
   replicas: 1
   language: go
   applicationRepo: https://github.com/bernardolsp/go-todo.git
-  yamlRepo: github.com/bernardolsp/aulao-pipeline.git
-  containerRepository: devlopesbernardo/go-todo
+  yamlRepo: github.com/stenioignacio/pipeline-argocd.git
+  containerRepository: stenioignacio/go-todo
